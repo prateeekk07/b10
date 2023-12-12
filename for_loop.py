@@ -17,13 +17,8 @@ name_list = ["a","b","c","d","e","f","t"]
 for i in range(0,len(name_list)): 
     print(name_list[i])
 
-#print even and odd numbers
 
-for i in range(1,50):
-    if i % 2 == 0:
-     print(f"even {i}")
-    else:
-     print(f"odd {i}")
    
 
 # for testing purpose
+print("hello world")
